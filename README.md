@@ -5,4 +5,4 @@ I will use  Sass to boost my front end workflow. I will be writing more efficien
 
 Layout
 <br/>
-<img src="https://raw.githubusercontent.com/charlotte-lau/SASS-Pratice-Website//master/preview.png" height="400" >
+<img src="https://raw.githubusercontent.com/charlotte-lau/SASS-Pratice-Website/master/preview.png" height="400" >
